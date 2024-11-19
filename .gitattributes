@@ -1,0 +1,2 @@
+learn-terraform-docker-container/learn-terraform-azuree/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.0.2/darwin_arm64/terraform-provider-azurerm_v3.0.2_x5 filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
